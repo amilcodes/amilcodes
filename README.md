@@ -24,18 +24,14 @@ Also: [Reconstructing Mercury](https://github.com/amilcodes/mercury-reconstructi
 ### On GitHub
 
 <p>
-  <a href="https://github.com/amilcodes?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amilcodes/amilcodes/main/profile/stats-dark.svg">
-      <img src="https://raw.githubusercontent.com/amilcodes/amilcodes/main/profile/stats-light.svg" height="170" alt="Amil's public GitHub activity: stars, commits, pull requests, issues, and repositories contributed to.">
-    </picture>
-  </a>
-  <a href="https://github.com/amilcodes?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amilcodes/amilcodes/main/profile/languages-dark.svg">
-      <img src="https://raw.githubusercontent.com/amilcodes/amilcodes/main/profile/languages-light.svg" height="170" alt="Language breakdown across Amil's public repositories, measured by code size.">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amilcodes/amilcodes/main/profile/stats-dark.svg">
+    <img src="https://raw.githubusercontent.com/amilcodes/amilcodes/main/profile/stats-light.svg" height="170" alt="Amil's public GitHub activity: stars, commits, pull requests, issues, and repositories contributed to.">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amilcodes/amilcodes/main/profile/languages-dark.svg">
+    <img src="https://raw.githubusercontent.com/amilcodes/amilcodes/main/profile/languages-light.svg" height="170" alt="Language breakdown across Amil's public repositories, measured by code size.">
+  </picture>
 </p>
 
 <sub>Public repository stats, refreshed daily. Language shares reflect code size.</sub>
